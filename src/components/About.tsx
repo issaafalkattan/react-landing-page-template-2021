@@ -17,9 +17,9 @@ const About = () => {
           <img src={logo} alt={companyName} className="w-16 h-16" />
         </div>
         <div className="flex flex-wrap sm:gap-10 gap-8 items-center justify-center mt-4 h-12">
-          {sections.map((section) => (
+          {sections.map((section, index) => (
             <a
-              key={section.name}
+              key={`${section.name}-${index}`}
               href={section.href}
               className="hover:text-primary text-base cursor-pointer leading-4 text-gray-800 dark:text-gray-400 dark:hover:text-white"
             >
