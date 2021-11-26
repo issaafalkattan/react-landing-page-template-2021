@@ -3,9 +3,11 @@ import React, { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import Script from 'next/script';
 
+import { GA_ADS_ID } from '../lib/googleAds';
 import * as gtag from '../lib/gtag';
 
 const App = () => {
+  console.log('Test', GA_ADS_ID);
   const router = useRouter();
   useEffect(() => {
     const handleRouteChange = (url: string) => {
@@ -38,6 +40,7 @@ const App = () => {
           `,
         }}
       />
+      <Script async src={GA_ADS_ID} crossOrigin="anonymous" />
     </>
   );
 };

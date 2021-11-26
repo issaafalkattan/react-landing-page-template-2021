@@ -1,6 +1,5 @@
 export const GA_TRACKING_ID = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS;
 
-console.log(GA_TRACKING_ID);
 declare global {
   interface Window {
     gtag: any;
