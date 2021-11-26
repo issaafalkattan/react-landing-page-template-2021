@@ -7,7 +7,6 @@ import { GA_ADS_ID } from '../lib/googleAds';
 import * as gtag from '../lib/gtag';
 
 const App = () => {
-  console.log('Test', GA_ADS_ID);
   const router = useRouter();
   useEffect(() => {
     const handleRouteChange = (url: string) => {
