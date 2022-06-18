@@ -48,7 +48,7 @@
         "img": "/assets/gifs/photogrammetry.gif"
       },
       {
-        "title": "Retro//twin: Digital twin certificate",
+        "title": "Retro//twin: Digital certificate",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         "img": "/assets/gifs/augmented-reality.gif"
       }
@@ -85,38 +85,32 @@
     "title": "Pricing",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "Authentication Fee",
+        "price": "$40",
+        "priceDetails": "per product",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
+          "Digital twin certificate",
+          "2-12 hours turnaround time",
+          "Valid for a lifetime",
           "Email support"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
-
+        "name": "Commission Fee",
+        "price": "$0",
+        "priceDetails": "per transaction",
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "Listing on retro//market",
+          "Secure payment",
+          "Phone and Email support",
+          "24/7 Support"
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
-        "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
-        ]
+        "name": "Digital Auth Transfer",
+        "price": "2%",
+        "priceDetails": "per transaction",
+        "features": ["Instant transaction", "Metraverse closet"]
       }
     ]
   },
