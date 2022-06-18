@@ -26,8 +26,8 @@
     }
   ],
   "mainHero": {
-    "title": "RETRO//VRS",
-    "subtitle": "imperfection shapes identity",
+    "title": "Retro//vrs",
+    "subtitle": "\"Imperfection shapes identity\"",
     "description": "A phygital marketplace for pre-owned luxury goods with an embedded blockchain secured authentication service that protects customers and sellers against counterfeit sales.",
     "img": "/assets/gifs/digital-twin.gif",
     "primaryAction": {
@@ -100,7 +100,7 @@
         "price": "$0",
         "priceDetails": "per transaction",
         "features": [
-          "Listing on retro//market",
+          "Listing on retro//store",
           "Secure payment",
           "Phone and Email support",
           "24/7 Support"
