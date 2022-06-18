@@ -104,7 +104,6 @@
         "features": [
           "Listing on retro//store",
           "Secure payment",
-          "Phone and Email support",
           "24/7 Support"
         ]
       },
@@ -112,7 +111,7 @@
         "name": "Digital Auth Transfer",
         "price": "2%",
         "priceDetails": "per transaction",
-        "features": ["Instant transaction", "Metraverse closet"]
+        "features": ["Instant transaction", "Metaverse closet"]
       }
     ]
   },
