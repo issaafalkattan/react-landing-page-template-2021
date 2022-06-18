@@ -37,6 +37,10 @@ const Product = () => {
               className="h-6/6"
               src={firstItem?.img}
               alt={firstItem?.title}
+              style={{
+                outline: '10px solid white',
+                outlineOffset: '-4px',
+              }} // Hack to crop to gif
             />
           </div>
         </div>
