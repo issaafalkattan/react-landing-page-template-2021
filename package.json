@@ -13,7 +13,7 @@
     "lint": "next lint",
     "build-types": "tsc --noEmit --pretty",
     "prepare": "husky install",
-    "deploy": "touch ./out/.nojekyll && gh-pages -d out -t true"
+    "deploy": "touch ./out/.nojekyll && cp CNAME out/CNAME && gh-pages -d out -t true"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.1",
