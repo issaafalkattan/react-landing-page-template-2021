@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 import About from '../components/About';
 import Analytics from '../components/Analytics';
@@ -12,6 +12,9 @@ import Pricing from '../components/Pricing';
 import Product from '../components/Product';
 
 const App = () => {
+  useEffect(() => {
+    document.title = 'Retro//vrs';
+  }, []);
   return (
     <div className={`bg-background grid gap-y-16 overflow-hidden`}>
       <div className={`relative bg-background`}>
