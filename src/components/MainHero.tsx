@@ -12,7 +12,7 @@ const MainHero = () => {
             <img src={mainHero.logo} alt={mainHero.title} />
           </span>
         </h1>
-        <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl sm:flex sm:justify-center lg:justify-start">
+        <h1 className="text-4xl tracking-tight text-gray-900 sm:text-5xl md:text-6xl sm:flex sm:justify-center lg:justify-start">
           <span className={`block text-primary xl:inline text-2xl`}>
             {mainHero.subtitle}
           </span>
