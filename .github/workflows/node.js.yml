@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: [self-hosted, macOS, X64]
+    runs-on: [self-hosted, linux, X64]
 
     strategy:
       matrix:
