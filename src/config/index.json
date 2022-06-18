@@ -1,7 +1,8 @@
 {
   "company": {
-    "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "name": "Retro//vrs 2022",
+    "logo": "/assets/images/logo.png",
+    "logoText": "/assets/images/logo-retrovrs.png"
   },
   "navigation": [
     {
@@ -27,7 +28,8 @@
   ],
   "mainHero": {
     "title": "Retro//vrs",
-    "subtitle": "\"Imperfection shapes identity\"",
+    "logo": "/assets/images/logo-retrovrs.png",
+    "subtitle": "Imperfection shapes identity",
     "description": "A phygital marketplace for pre-owned luxury goods with an embedded blockchain secured authentication service that protects customers and sellers against counterfeit sales.",
     "img": "/assets/gifs/digital-twin.gif",
     "primaryAction": {

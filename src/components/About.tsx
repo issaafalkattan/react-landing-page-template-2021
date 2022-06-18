@@ -4,7 +4,7 @@ import config from '../config/index.json';
 
 const About = () => {
   const { company, about } = config;
-  const { logo, name: companyName } = company;
+  const { logoText, name: companyName } = company;
   const { socialMedia, sections } = about;
 
   return (
@@ -14,7 +14,7 @@ const About = () => {
     >
       <div className="flex flex-col items-center justify-center">
         <div>
-          <img src={logo} alt={companyName} className="w-16 h-16" />
+          <img src={logoText} alt={companyName} />
         </div>
         <div className="flex flex-wrap sm:gap-10 gap-8 items-center justify-center mt-4 h-12">
           {sections.map((section, index) => (
