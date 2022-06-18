@@ -87,7 +87,7 @@
       {
         "name": "Authentication Fee",
         "price": "$40",
-        "priceDetails": "per product",
+        "priceDetails": "per item",
         "features": [
           "Digital twin certificate",
           "2-12 hours turnaround time",
