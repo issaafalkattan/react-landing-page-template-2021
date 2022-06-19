@@ -45,41 +45,40 @@
     "title": "Features",
     "items": [
       {
-        "title": "Retro//fit: 3D Scan",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "title": "Retro//fit: 3D Capture",
+        "description": "Turn photos of your luxury goods from your phone into high‑quality 3D digital twins that are optimized for AR. It uses photogrammetry to turn a series of pictures taken on your phone into 3D model.",
         "img": "/assets/gifs/photogrammetry.gif"
       },
       {
         "title": "Retro//twin: Digital certificate",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "description": "The authenticity certificate of the luxury goods is in a form or 3D digital twins. The authenticity certificate is attached to object itself, not to an event, a paper or a chip. It enables digital traceability of the authenticated luxury goods",
         "img": "/assets/gifs/augmented-reality.gif"
       }
     ]
   },
   "features": {
     "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "subtitle": "Powered by cutting-edge technologies!",
     "items": [
       {
         "name": "Photogrammetry",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "icon": "/assets/images/react.png"
+        "description": "Turn photos from your phone into high‑quality 3D models that are optimized for AR. What is needed is a series of well-lit photographs taken from many different angles. It analyzes the overlap area between different images to match up landmarks, and then produces a 3D model of the photographed object. To generate the best 3D representation from the object-creation process, provide RealityKit with high-quality, high-resolution photographs that don’t contain hard shadows or strong highlights.",
+        "icon": "/assets/images/techs/photogrammetry.png"
       },
       {
         "name": "Peer verification",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "description": "Digital Twin enable authentication to be done by peer verification from Retrovrs’ network of experts with transparent process. We provide 3 layes of verifications;",
+        "icon": "/assets/images/techs/peer-verification.png"
       },
       {
         "name": "Cross-chain",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "icon": "/assets/images/nextjs.svg"
+        "description": "Blockchain interactions require gas fees which suggests that it can become quite expensive to operate a metaverse platform. A cross-chain is the interoperability between two relatively independent blockchains. In other words, it allows blockchains to speak to one another because they’re built in a standardized way. This interoperability allows the high valume transactions to be handled in low/zero gas fee chain.",
+        "icon": "/assets/images/techs/cross-chain.png"
       },
       {
         "name": "Metaverse",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "icon": "/assets/images/ts.png"
+        "description": "In the simplest of nutshells, the metaverse is \"a whole new 3D interactive internet\". The emergence of the metaverse offers incredible potential for fashion and luxury industry. As fashion immerses itself in the metaverse, it can be separated into two forms: the combination of physical and digital, where clothing can be worn using augmented or virtual realities, and fully digital, where items are sold directly to an avatar.",
+        "icon": "/assets/images/techs/metaverse.png"
       }
     ]
   },
@@ -87,18 +86,17 @@
     "title": "Offers",
     "items": [
       {
-        "name": "Authentication Fee",
+        "name": "Authentication",
         "price": "$40",
         "priceDetails": "per item",
         "features": [
           "Digital twin certificate",
           "2-12 hours turnaround time",
-          "Valid for a lifetime",
-          "Email support"
+          "Valid for a lifetime"
         ]
       },
       {
-        "name": "Commission Fee",
+        "name": "Transaction",
         "price": "$0",
         "priceDetails": "per transaction",
         "features": [
@@ -108,7 +106,7 @@
         ]
       },
       {
-        "name": "Digital Auth Transfer",
+        "name": "Certificate Transfer",
         "price": "2%",
         "priceDetails": "per transaction",
         "features": ["Instant transaction", "Metaverse closet"]
