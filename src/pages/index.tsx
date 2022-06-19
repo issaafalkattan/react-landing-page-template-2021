@@ -33,7 +33,6 @@ const App = () => {
       <LazyShow>
         <>
           <Product />
-          <Canvas />
         </>
       </LazyShow>
       <LazyShow>
@@ -43,16 +42,18 @@ const App = () => {
         </>
       </LazyShow>
       <LazyShow>
-        <Pricing />
-      </LazyShow>
-      <LazyShow>
-        <Testflight />
+        <>
+          <Pricing />
+        </>
       </LazyShow>
       <LazyShow>
         <>
+          <Testflight />
           <Canvas />
-          <About />
         </>
+      </LazyShow>
+      <LazyShow>
+        <About />
       </LazyShow>
       <Analytics />
     </div>
