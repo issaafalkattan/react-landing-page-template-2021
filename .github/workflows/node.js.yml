@@ -36,5 +36,5 @@ jobs:
       with:
         github_token: ${{ secrets.TOKEN }}
         publish_dir: ./out
-        cname: landing.retrovrs.com
+        cname: retrovrs.com
 
