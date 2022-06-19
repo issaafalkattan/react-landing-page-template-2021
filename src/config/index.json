@@ -22,6 +22,10 @@
       "href": "pricing"
     },
     {
+      "name": "Testflight",
+      "href": "testflight"
+    },
+    {
       "name": "Contact",
       "href": "about"
     }
@@ -34,7 +38,7 @@
     "img": "/assets/gifs/digital-twin.gif",
     "primaryAction": {
       "text": "Get started",
-      "href": "#"
+      "href": "#testflight"
     },
     "secondaryAction": {
       "text": "Email us",
@@ -117,27 +121,37 @@
       }
     ]
   },
+  "testflight": {
+    "title": "Retro//crowd",
+    "description": "Mobile App to 3D scan second hand luxury goods and share it to the community to check if the item is legit. The goal is to build community and brand while at the same time gathering 3D models data for our R&D on Phygital Authentication Service",
+    "img": "/assets/images/avatar.png",
+    "imgQr": "/assets/images/qr.png",
+    "primaryAction": {
+      "text": "Join beta tester",
+      "href": "https://testflight.apple.com/join/6a0fKjAD"
+    }
+  },
   "about": {
     "sections": [
       {
         "name": "Product",
-        "href": "#top",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "href": "#top"
       },
       {
         "name": "Features",
-        "href": "#product",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "href": "#product"
       },
       {
         "name": "Technologies",
-        "href": "#features",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "href": "#features"
       },
       {
         "name": "Offers",
-        "href": "#pricing",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "href": "#pricing"
+      },
+      {
+        "name": "Testflight",
+        "href": "#testflight"
       }
     ],
     "socialMedia": {

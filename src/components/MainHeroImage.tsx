@@ -17,7 +17,7 @@ const MainHeroImage = () => {
         className="w-full object-cover lg:w-full lg:h-full"
         style={{ maxWidth: '40rem' }}
         src={mainHero.img}
-        alt="happy team image"
+        alt="Digital twin"
       />
     </div>
   );
