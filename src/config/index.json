@@ -51,7 +51,7 @@
       },
       {
         "title": "Retro//twin: Digital certificate",
-        "description": "The authenticity certificate of the luxury goods is in a form or 3D digital twins. The authenticity certificate is attached to object itself, not to an event, a paper or a chip. It enables digital traceability of the authenticated luxury goods",
+        "description": "The authenticity certificate of the luxury goods is in a form or 3D digital twins. It is attached to object itself, not to an event, a paper or a chip. It enables digital traceability of the authenticated luxury goods",
         "img": "/assets/gifs/augmented-reality.gif"
       }
     ]
@@ -62,12 +62,12 @@
     "items": [
       {
         "name": "Photogrammetry",
-        "description": "Turn photos from your phone into high‑quality 3D models that are optimized for AR. What is needed is a series of well-lit photographs taken from many different angles. It analyzes the overlap area between different images to match up landmarks, and then produces a 3D model of the photographed object. To generate the best 3D representation from the object-creation process, provide RealityKit with high-quality, high-resolution photographs that don’t contain hard shadows or strong highlights.",
+        "description": "Turn photos from your phone into high‑quality 3D models that are optimized for AR. What is needed is a series of well-lit photographs taken from many different angles. It analyzes the overlap area between different images to match up landmarks, and then produces a 3D model of the photographed object.",
         "icon": "/assets/images/techs/photogrammetry.png"
       },
       {
         "name": "Peer verification",
-        "description": "Digital Twin enable authentication to be done by peer verification from Retrovrs’ network of experts with transparent process. We provide 3 layes of verifications;",
+        "description": "Digital Twin enables authentication to be done by peer verification from Retrovrs’ network of experts with transparent process. We provide 3 layes of verifications;",
         "icon": "/assets/images/techs/peer-verification.png"
       },
       {
@@ -96,7 +96,7 @@
         ]
       },
       {
-        "name": "Transaction",
+        "name": "Marketplace",
         "price": "$0",
         "priceDetails": "per transaction",
         "features": [
@@ -109,7 +109,11 @@
         "name": "Certificate Transfer",
         "price": "2%",
         "priceDetails": "per transaction",
-        "features": ["Instant transaction", "Metaverse closet"]
+        "features": [
+          "Instant transaction",
+          "Metaverse closet",
+          "Multi-platform support"
+        ]
       }
     ]
   },
