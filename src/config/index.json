@@ -101,7 +101,7 @@
       },
       {
         "name": "Marketplace",
-        "price": "$0",
+        "price": "3%",
         "priceDetails": "per transaction",
         "features": [
           "Listing on retro//store",
