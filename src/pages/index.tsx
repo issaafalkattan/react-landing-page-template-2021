@@ -1,5 +1,7 @@
 import React, { useEffect } from 'react';
 
+import Script from 'next/script';
+
 import About from '../components/About';
 import Analytics from '../components/Analytics';
 import Canvas from '../components/Canvas';
@@ -18,6 +20,19 @@ const App = () => {
   }, []);
   return (
     <div className={`bg-background grid gap-y-16 overflow-hidden`}>
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-S8DDM05FM9"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){window.dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-S8DDM05FM9');
+        `}
+      </Script>
       <div className={`relative bg-background`}>
         <div className="max-w-7xl mx-auto">
           <div
