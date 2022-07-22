@@ -76,7 +76,7 @@
       },
       {
         "name": "Cross-chain",
-        "description": "Blockchain interactions require gas fees which suggests that it can become quite expensive to operate a metaverse platform. A cross-chain is the interoperability between two relatively independent blockchains. In other words, it allows blockchains to speak to one another because they’re built in a standardized way. This interoperability allows the high valume transactions to be handled in low/zero gas fee chain.",
+        "description": "Blockchain interactions require gas fees which suggests that it can become quite expensive to operate a metaverse platform. A cross-chain is the interoperability between two relatively independent blockchains. In other words, it allows blockchains to speak to one another because they’re built in a standardized way. This interoperability allows the high volume transactions to be handled in low/zero gas fee chain.",
         "icon": "/assets/images/techs/cross-chain.png"
       },
       {
