@@ -1,6 +1,6 @@
 import React from 'react';
 
-import config from '../config/index.json';
+import config from '../config';
 import Divider from './Divider';
 
 const Product = () => {
