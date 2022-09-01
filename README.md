@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # React.js landing page template v2
 
 ## <a href="https://react-landing-page-template-2021.vercel.app/"> LIVE DEMO</a>
@@ -93,3 +94,5 @@ Licensed under the MIT License, Copyright © 2021
 ---
 
 ### Looking for v1? <a href="https://github.com/issaafalkattan/React-Landing-Page-Template">V1</a>
+=======
+>>>>>>> Stashed changes
