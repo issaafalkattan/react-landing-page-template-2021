@@ -93,3 +93,4 @@ Licensed under the MIT License, Copyright © 2021
 ---
 
 ### Looking for v1? <a href="https://github.com/issaafalkattan/React-Landing-Page-Template">V1</a>
+# lotts
