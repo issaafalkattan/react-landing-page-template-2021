@@ -1,7 +1,7 @@
 {
   "company": {
-    "name": "Lauschaer Topurismus Stammtisch e.V.",
-    "companyName": "Lauschaer Topurismus Stammtisch e.V.",
+    "name": "",
+    "companyName": "",
     "logo": "/assets/images/dandelion.svg"
   },
   "navigation": [
@@ -13,7 +13,6 @@
       "name": "Service",
       "href": "features"
     },
-
     {
       "name": "Blog",
       "href": "pricing"
@@ -33,12 +32,8 @@
     "description": "Auch in diesem Jahr lädt der Lauschaer Tourismus-Stammtisch e.V. zum Millichstöcktag ein. Millichstöck heißt der Löwenzahn im Lauschaer Dialekt. Aus ihm zaubern die Lauschaer traditionell im Frühjahr leckere und gesunde Gerichte. Feiere mit uns diese Lauschaer Tradition und das Ende des Winters.",
     "img": "/assets/images/loewenzahn-wiese.jpg",
     "primaryAction": {
-      "text": "Abbonniere unseren Newsletter",
-      "href": "#"
-    },
-    "secondaryAction": {
-      "text": "Folge uns in Social Media",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Zum Programm",
+      "href": "#product"
     }
   },
   "product": {
@@ -125,14 +120,25 @@
   "about": {
     "sections": [
       {
-        "name": "Lauschaer Tourismus Stammtisch e.V.",
-        "href": "#",
+        "name": "Based on the template project of Issaafal Kattan",
+        "href": "https://github.com/issaafalkattan",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Hero Image by Walter Sturn",
+        "href": "https://unsplash.com/de/fotos/kKmSRORgcnM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Icons from Iconpacks",
+        "href": "https://www.iconpacks.net",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "People illustrations by Storyset",
+        "href": "https://storyset.com/people",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       }
-    ],
-    "socialMedia": {
-      "instagram": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan"
-    }
+    ]
   }
 }
