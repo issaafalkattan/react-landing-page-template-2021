@@ -1,89 +1,85 @@
 {
   "company": {
-    "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "name": "",
+    "companyName": "",
+    "logo": "/assets/images/dandelion.svg"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Programm",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Service",
       "href": "features"
     },
-
     {
-      "name": "Pricing",
+      "name": "Blog",
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "Über uns",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Get started",
+    "text": "Termin merken",
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Millichstöcktag Lauscha",
+    "subtitle": "1. & 2. April 2023",
+    "description": "Auch in diesem Jahr lädt der Lauschaer Tourismus-Stammtisch e.V. zum Millichstöcktag ein. Millichstöck heißt der Löwenzahn im Lauschaer Dialekt. Aus ihm zaubern die Lauschaer traditionell im Frühjahr leckere und gesunde Gerichte. Feiere mit uns diese Lauschaer Tradition und das Ende des Winters.",
+    "img": "/assets/images/loewenzahn-wiese.jpg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
-    },
-    "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Zum Programm",
+      "href": "#product"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Millichstöcktag Programm",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Festzelt und Markt",
+        "description": "Auf dem Lauschaer Hüttenplatz erwarten wir dich in unserem Festzelt mit Verkauf von Speisen und Getränken und natürlich Millichstöck-Produkten. Zur Unterhaltung gibt es Livemusik aus Lauscha. Wer ein Souvenir mit nach Hause nehmen möchte findet ortstypisches auf unserem kleinen Markt. Und nicht zuletzt ist an die Kinder gedacht mit unserem Bastelstand und dem Eisverkäufer.",
+        "img": "/assets/images/Farmers market-cuate.png"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Geführte Wanderungen",
+        "description": "Lerne unsere schöne Umgebung bei einer geführten Wanderung kennen. Wir bieten Touren in unterschiedlichen Schwierigkeitsstufen an, die bei uns in Lauscha enden. Hier findest du die Routen und Treffpunkte.",
+        "img": "/assets/images/Lost-cuate.png"
+      },
+      {
+        "title": "Gasthöfe & Restaurants",
+        "description": "Zum Millichstöcktag bieten viele Gasthöfe und Restaurants in Lauscha eine besondere Speisekarte mit Millichstöck-Gerichten an. Wir empfehlen eine Vorreservierung.",
+        "img": "/assets/images/Eating together-cuate.png"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "",
+    "subtitle": "Service: Tipps zu Anreise und Übernachtung",
+    "description": "",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Anreise mit der Bahn",
+        "description": "Der Bahnhof Lauscha (Thür.) wird stündlich von der Süd-Thüringen-Bahn aus Richung Sonneberg und Neuhaus am Rennweg angefahren. In Sonneberg besteht Anschluss von und nach Coburg. In jeder zweiten Stunde fährt der Zug von/bis Eisenach und Meiningen.",
+        "icon": "/assets/images/train-1045.svg"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "Anreise mit dem Auto",
+        "description": "Wer mit dem Auto zu uns kommen möchte nimmt von Süden die B 89 bis Sonneberg. Von Norden fährst du über die B 281 via Saalfeld oder von der Autobahn 73 (Anschlussstelle Eisfeld) kommend nach Neuhaus am Rennweg. In Sonneberg bzw. Neuhaus am Rennweg ist Lauscha ausgeschildert. Parkplätze findest du über die Wegweiser vor Ort.",
+        "icon": "/assets/images/car-1044.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
-      },
-      {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Übernachtung",
+        "description": "Übernachtungsmöglichkeiten in Hotels, Gasthöfen und Ferienwohnungen vermittelt dir gern unsere Tourist-Information.",
+        "icon": "/assets/images/bed-9225.svg"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Blog",
     "items": [
       {
         "name": "Free",
@@ -124,30 +120,25 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "#",
+        "name": "Based on the template project of Issaafal Kattan",
+        "href": "https://github.com/issaafalkattan",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
-        "href": "#",
+        "name": "Hero Image by Walter Sturn",
+        "href": "https://unsplash.com/de/fotos/kKmSRORgcnM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
-        "href": "#",
+        "name": "Icons from Iconpacks",
+        "href": "https://www.iconpacks.net",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
-        "href": "#",
+        "name": "People illustrations by Storyset",
+        "href": "https://storyset.com/people",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       }
-    ],
-    "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
-    }
+    ]
   }
 }
