@@ -14,7 +14,7 @@
     },
 
     {
-      "name": "Pricing",
+      "name": "About Us",
       "href": "pricing"
     },
     {
@@ -27,63 +27,63 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Let we find a",
+    "subtitle": "Charging Station.",
+    "description": "Our mission is to make charging electric cars easier, cheaper, and more accessible to everyone. Join us and help accelerate the transition to sustainable transportation.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Join as a Driver",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Be a host",
+      "href": "mailto:ozancanakn@gmail.com?subject=I like to join as a host!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Our new released products",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Mobile App for Drivers",
+        "description": "Find affordable charging options near you. Pay half the price compared to regular charging stations and discover the freedom to choose any road you wish to travel.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Web App for Hosts!",
+        "description": "As a host, offer your place as a charging station and earn money. Make more than your electricity bill by just plugging in a car. Help expand the charging network to places it's never reached before.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
+    "title": "Smart Charging with Advanced Features",
     "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "description": "",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "name": "Book Charging Times",
+        "description": "Never worry about charging station availability. Make reservations ahead of time, just reach the location at your booked slot, plug in, and relax.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "name": "Make It Cheaper",
+        "description": "Make your car fully charged in half price",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "name": "Vision of Charge",
+        "description": "Show all charging stations near you.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "name": "Pay Pre-defined Prices",
+        "description": "When you show stations on map you can see prices.",
         "icon": "/assets/images/ts.png"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "About Us",
     "items": [
       {
         "name": "Free",
