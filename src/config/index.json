@@ -1,15 +1,15 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "StateFarm Small Business",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Plans",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Coverage",
       "href": "features"
     },
 
@@ -18,21 +18,21 @@
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "Contact",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Get started",
+    "text": "Login",
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Small Business Insurance",
+    "subtitle": "Made Easy",
+    "description": "",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Get Prices",
       "href": "#"
     },
     "secondaryAction": {
@@ -56,22 +56,22 @@
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Popular Solutions",
+    "subtitle": "Solutions For Everyone",
+    "description": "Explore all products for small business owners.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Business Coverage",
+        "description": "",
+        "icon": "/assets/svg/small_business.png"
       },
       {
-        "name": "Tailwind",
+        "name": "Liability Coverage",
         "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
+        "name": "Insurance Claims",
         "description": "Next.js is a framework for server-rendered React applications using Next.js.",
         "icon": "/assets/images/nextjs.svg"
       },
