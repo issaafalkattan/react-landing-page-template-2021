@@ -24,6 +24,8 @@
     "react-scroll": "^1.8.4",
     "smooth-scroll": "^16.1.3",
     "styled-jsx-plugin-postcss": "^4.0.1",
+    "survey-core": "^1.9.115",
+    "survey-react": "^1.9.115",
     "survey-react-ui": "^1.9.115"
   },
   "devDependencies": {
