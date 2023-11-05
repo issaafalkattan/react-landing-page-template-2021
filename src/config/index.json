@@ -33,7 +33,7 @@
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get Prices",
-      "href": "#"
+      "href": "/quiz"
     },
     "secondaryAction": {
       "text": "Email us",
@@ -138,9 +138,7 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/Aalhad-Pathare/HackUTD-X/tree/Insurance"
     }
   }
 }
