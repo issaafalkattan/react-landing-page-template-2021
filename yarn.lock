@@ -4188,7 +4188,7 @@ supports-color@8.1.1:
   dependencies:
     has-flag "^4.0.0"
 
-survey-core@1.9.115:
+survey-core@^1.9.115, survey-core@1.9.115:
   version "1.9.115"
   resolved "https://registry.npmjs.org/survey-core/-/survey-core-1.9.115.tgz"
   integrity sha512-2gThD7QcbqUjiu/O58PKDors9H6RkXbN2+ec0HVo2eOPwxkVvT+HMvvwwlZS+Bc4z7rG4ak2PwnOFZYTqWuITg==
@@ -4201,6 +4201,11 @@ survey-react-ui@^1.9.115:
     react "^16.5.0 || ^17.0.1 || ^18.1.0"
     react-dom "^16.5.0 || ^17.0.1 || ^18.1.0"
     survey-core "1.9.115"
+
+survey-react@^1.9.115:
+  version "1.9.115"
+  resolved "https://registry.npmjs.org/survey-react/-/survey-react-1.9.115.tgz"
+  integrity sha512-N+yg4E3Igf9HNli2N9HfVcadzpGhLmwfL4TrkJ0DoTfbCcuZuAiempHuQG57pX5jH/E+iWKOLLpMBX0bIWiYBg==
 
 table@^6.0.9:
   version "6.7.2"
