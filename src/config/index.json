@@ -41,16 +41,16 @@
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Solutions Tailored to Your Needs",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Variety of Solutions",
+        "description": "State Farm understands the unique challenges that small businesses face, which is why we offer a comprehensive range of coverages designed to safeguard your enterprise. Whether you're a startup, a local shop, or a growing company, our policies are tailored to your specific needs. From general liability and property insurance to workers' compensation and cyber liability protection, we've got you covered. Our goal is to provide you with peace of mind, knowing that your business is protected from unexpected risks, so you can focus on what you do best – growing your business.",
         "img": "/assets/images/product1.jpg"
       },
       {
         "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "description": "We're committed to supporting small businesses with a diverse array of coverage options. We understand the diverse needs of small enterprises and offer a wide range of insurance solutions to meet those needs. From general liability and property insurance to workers' compensation and cyber liability protection, our flexible policies are designed to fit your unique requirements. With us, you can rest assured that your small business is shielded against unforeseen challenges, allowing you to concentrate on nurturing your business's growth and success.",
         "img": "/assets/images/product2.jpg"
       }
     ]
@@ -62,61 +62,54 @@
     "items": [
       {
         "name": "Business Coverage",
-        "description": "",
-        "icon": "/assets/svg/small_business.png"
+        "description": "Business coverage includes a wide range of insurance policies designed to protect a company's assets, operations, and financial interests. It typically encompasses coverage for property, liability, and other specific needs, ensuring that your business can continue to operate even in the face of unexpected events or losses.",
+        "icon": "/assets/svg/small_business.svg"
       },
       {
         "name": "Liability Coverage",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "description": "Liability coverage is essential for protecting your business from legal claims and financial repercussions. This insurance can help cover costs associated with lawsuits, injuries, or property damage for which your company is deemed responsible, providing peace of mind and financial security.",
+        "icon": "/assets/svg/liability.svg"
       },
       {
         "name": "Insurance Claims",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "description": "Insurance claims are the process through which you seek compensation or coverage for losses, damages, or incidents covered by your insurance policy. It's the critical step in utilizing your insurance coverage, ensuring that you receive the financial support you need in times of need.",
+        "icon": "/assets/svg/insurance_claim.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Vehicle & Equipment Coverage",
+        "description": "Vehicle coverage is crucial for businesses that rely on vehicles for their operations. It provides protection for your company's cars, trucks, and other vehicles, covering damage, accidents, and potential liabilities. Whether you have a single vehicle or a fleet, this coverage is essential for risk management.",
+        "icon": "/assets/svg/vehicle.svg"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Bundles",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
-        "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
-        ]
+        "name": "Basic",
+        "price": "",
+        "priceDetails": "Get Prices",
+        "features": ["Business", "Equipment", "Employee"]
       },
       {
         "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
+        "price": "",
+        "priceDetails": "Get Prices",
 
-        "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
-        ]
+        "features": ["Business", "Equipment", "Employee", "Liability", "Life"]
       },
       {
         "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "price": "",
+        "priceDetails": "Get Prices",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "Business",
+          "Equipment",
+          "Employee",
+          "Liability",
+          "Life",
+          "Retirement",
+          "Bank"
         ]
       }
     ]
@@ -124,22 +117,22 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
+        "name": "Plans",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "Coverage",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "Pricing",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "Contact",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       }

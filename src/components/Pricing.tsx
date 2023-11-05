@@ -50,7 +50,10 @@ const Pricing = () => {
                 className={`w-full pt-6 text-3xl text-gray-600 font-bold text-center`}
               >
                 {firstPlan?.price}
-                <span className={`text-base`}> {firstPlan?.priceDetails}</span>
+                <a href="#" className={`text-base`}>
+                  {' '}
+                  {firstPlan?.priceDetails}
+                </a>
               </div>
             </div>
           </div>
@@ -82,7 +85,10 @@ const Pricing = () => {
             >
               <div className={`w-full pt-6 text-4xl font-bold text-center`}>
                 {secondPlan?.price}
-                <span className={`text-base`}> {secondPlan?.priceDetails}</span>
+                <a href="#" className={`text-base`}>
+                  {' '}
+                  {secondPlan?.priceDetails}
+                </a>
               </div>
             </div>
           </div>
@@ -113,7 +119,10 @@ const Pricing = () => {
                 className={`w-full pt-6 text-3xl text-gray-600 font-bold text-center`}
               >
                 {thirdPlan?.price}
-                <span className={`text-base`}> {thirdPlan?.priceDetails}</span>
+                <a href="#" className={`text-base`}>
+                  {' '}
+                  {thirdPlan?.priceDetails}
+                </a>
               </div>
             </div>
           </div>
