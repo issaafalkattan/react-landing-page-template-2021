@@ -1,0 +1,31 @@
+---
+import Container from "./Container.astro"
+
+---
+
+<div class="relative py-16">
+  <div aria-hidden="true" class="absolute inset-0 h-max w-full m-auto grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20">
+    <div class="blur-[106px] h-56 bg-gradient-to-br from-primary to-mint-400 dark:from-blue-700"></div>
+    <div class="blur-[106px] h-32 bg-gradient-to-r from-cyan-400 to-sky-300 dark:to-indigo-600"></div>
+  </div>
+  <Container>
+      <div class="mt-6 m-auto space-y-6 md:w-8/12 lg:w-7/12">
+        <h1 class="text-left text-4xl font-bold text-gray-800 dark:text-white md:text-5xl">About Us</h1>
+        <p class="text-left text-xl text-gray-600 dark:text-gray-300">We are a team of software engineers and data scientists based in Toronto who are passionate about making the world of AI more friendly and accessible to everyone. Our mission is to create a world where people can interact with their own ai friend in a natural and intuitive way, without feeling intimidated, overwhelmed or data insecurity.</p>
+        <p class="text-left text-xl text-gray-600 dark:text-gray-300">At our core, we believe that AI should be designed with people in mind. That's why we're constantly pushing the boundaries of what's possible with the latest technology, while always keeping the user experience front and center. Whether we're developing new algorithms, building cutting-edge hardware, or designing beautiful interfaces, we're always striving to make our AI companions more approachable and less intimidating.</p>
+        <p class="text-left text-xl text-gray-600 dark:text-gray-300">Our team is made up of some of the brightest minds in the industry, with years of experience in software engineering, machine learning, and human-AI interaction. We're proud to be based in Toronto, a city that's known for its diversity, vibrant tech scene and innovative spirit. We're also committed to giving back to our community, whether it.s through mentorship programs, open-source contributions, or charitable initiatives.</p>
+        <p class="text-left text-xl text-gray-600 dark:text-gray-300">Thank you for visiting friend.ai, If you want to learn more about frend.ai an our team feel free to email us via hi@frend.ai. We hope you'll join us on our mission to make AI more friendly and accessible to everyone.</p>
+     <div class="flex flex-wrap justify-center gap-6">
+          <a
+              href="https://shiba.frend.ai"
+              class="relative flex h-12 w-full items-center justify-center px-8 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max"
+            >
+              <span class="relative text-base font-semibold text-white dark:text-dark"
+                >Get Started</span
+              >
+            </a>
+        </div>
+      </div>
+    </div>
+  </Container>
+</div>
