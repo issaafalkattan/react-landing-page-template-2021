@@ -1,27 +1,15 @@
 module.exports = {
   mode: 'jit',
   purge: ['./src/**/*.{js,ts,jsx,tsx}'],
-  darkMode: false,
+  darkMode: 'class', // Enable dark mode
   theme: {
-    fontSize: {
-      xs: '0.75rem',
-      sm: '0.875rem',
-      base: '1rem',
-      lg: '1.125rem',
-      xl: '1.25rem',
-      '2xl': '1.5rem',
-      '3xl': '1.875rem',
-      '4xl': '2.25rem',
-      '5xl': '3rem',
-      '6xl': '4rem',
-    },
     extend: {
       colors: {
-        primary: '#ec4755',
-        secondary: '#a12c34',
+        primary: '#1DB954', // Spotify green
+        secondary: '#141', // Dark background color
         tertiary: '#99a0a3',
         border: '#1a2e35',
-        background: '#ffffff',
+        background: '#121212', // Dark background color
       },
       animation: {
         vote: 'vote 1s ease-in-out',

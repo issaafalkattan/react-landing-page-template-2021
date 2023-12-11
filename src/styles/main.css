@@ -2,27 +2,28 @@
 @tailwind components;
 @tailwind utilities;
 
-
 :root {
-  --color-primary: #ec4755;
-  --color-secondary: #a12c34;
-  --color-tertiaty: #99a0a3;
+  --color-primary: #1DB954; /* Spotify green */
+  --color-secondary: #191622; /* Dark background color */
+  --color-tertiary: #99a0a3;
 }
 
-a { 
-  @apply text-red-700;
+body {
+  @apply bg-secondary text-white; /* Set dark background and white text */
+}
+
+a {
+  @apply text-primary; /* Set Spotify green text color */
 }
 
 a:hover {
-  @apply border-b-2 border-red-700;
+  @apply border-b-2 border-primary;
 }
 
-
-
 .content p {
-  @apply my-6;
+  @apply my-6 text-white; /* Set white text color for paragraphs */
 }
 
 .content ul {
-  @apply my-6;
+  @apply my-6 text-white; /* Set white text color for unordered lists */
 }
