@@ -5,7 +5,7 @@
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "About",
       "href": "product"
     },
     {
@@ -27,33 +27,33 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
-    "primaryAction": {
-      "text": "Get started",
-      "href": "#"
-    },
-    "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
-    }
+    "title": "Hannah Baker",
+    "subtitle": "Software Engineer",
+    "description": "Welcome to my corner of the web! I'm Hannah, a trilingual British-Indonesian fully remote fullstack software engineer based in the beautiful West Yorkshire. With years of hands-on experience in C# .NET, Golang, and React, I thrive on crafting innovative solutions for web applications. My diverse background and skill set empowers me to tackle challenges with agility and precision, ensuring every project is a success. Explore my portfolio and let's bring your ideas to life together!",
+    "img": "/assets/images/happyTeam.jpeg"
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Hannah Baker | Software Engineer",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "description": "Hi, I'm Hannah (she/her/hers), a Software Engineer currently on a career break. I reside in the serene landscapes of West Yorkshire, where I share my home with my partner James and our beloved fur babies, Elsie, Feisty, and Harvey.\n\nMy website serves as a digital journal, documenting notable career events, experimental writings on my learning journey, and anything else that piques my interest. I'm deeply passionate about software engineering, board games, and the wonders of nature.\n\n",
+        "img": "/assets/images/product1.jpg",
+        "title": "Hannah Baker"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "description": "As someone living with Autism, I approach life with curiosity and I’m continuously learning how to make my life work better around it.\n\nFeel free to reach out to me via email at hannah.baker.careers@gmail.com or connect with me through any of the social links below. I'm always up for a chat about anything from code to cats!",
+        "img": "/assets/images/product2.jpg",
+        "title": "Hannah Baker"
       }
-    ]
+    ],
+    "primaryAction": {
+      "text": "Email me",
+      "href": "mailto:hannah.baker.career@gmail.com?subject=I found you on your website!"
+    },
+    "secondaryAction": {
+      "text": "View LinkedIn",
+      "href": "https://www.linkedin.com/in/hannahbaker-28/"
+    }
   },
   "features": {
     "title": "Latest & greatest ",
